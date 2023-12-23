@@ -1,2 +1,2 @@
-Hello world 
-My first Tutorial for git and github
+Hello world
+The project is created to learn more about git and github

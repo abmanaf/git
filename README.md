@@ -1,2 +1,2 @@
-#Hello world
-Repository for git tutorials
+Hello world 
+My first Tutorial for git and github
